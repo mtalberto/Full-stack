@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+  color-scheme: light dark;
+  color: rgba(238, 238, 238, 0.87);
+
+ background-color: rgb(246, 244, 244);
+ 
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.initial{
+  
+  color: aliceblue;
+  background-color: rgb(126, 120, 255); 
+}
+#linkpost{
+ display: flex;
+  margin-right:85%;
+  color: aliceblue;
+  flex-direction: column;
+ 
+}
+#linkhome{
+  
+  display: flex;
+  margin-left: 65%;
+  color: aliceblue;
+}
